@@ -1,0 +1,37 @@
+
+h2 {
+    background-color: #dbe2f0;
+    color: rgb(0, 0, 0);
+    padding: 1rem 0;
+    text-align: center;
+    border-radius: 6px;
+}
+
+
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1rem 0;
+    background-color: rgb(218, 230, 226);
+}
+
+th, td {
+    border: 1px solid #202020;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f4f5eb;
+}
+
+tr:nth-child(even) {
+    background-color: #f4f5eb;
+}
+
+tr:hover {
+    background-color: #f4f5eb;
+}
+
+
