@@ -1,0 +1,63 @@
+.section-3{
+    grid-row: 4/5;
+    grid-column: 1/2;
+    padding: 2.2rem 3rem;
+}
+
+.titForm{
+    font-size: 2.5rem;
+    font-weight: 600;
+    font-style: italic;
+    color: #001275;
+}
+
+.section-3 table{
+    border-collapse: collapse;
+    box-shadow: -10px 10px #d7d6d6 ;
+}
+
+.section-3 th{
+    border: 2px solid black;
+    padding: 1.5rem;
+    font-size: 1.7rem;
+    font-weight: 700;
+    font-style: italic;
+    color: white;
+
+    background-color: rgb(58, 89, 130);
+}
+
+.section-3 .eti{
+    border: 2px solid black;
+    font-style: italic;
+    font-weight: bold ;
+    color: white;
+    font-size: 1.5rem;
+    background-color: rgb(61, 106, 166);
+}
+
+.section-3 tr{
+    padding: 2rem;
+}
+
+.section-3 td{
+    padding: 1rem;
+    font-size: 1.4rem;
+    text-align: center;
+    border: 2px solid #5C6BC0;
+}
+
+.section-3 th:hover{
+    background-color: rgb(19, 40, 67);
+
+}
+
+.section-3  tr:hover{
+    background-color: #ffd6a3;
+    transition: 0.2s;
+    cursor: pointer;
+}
+
+.section-3 .eti:hover{
+    background-color: rgb(19, 40, 67);
+}
