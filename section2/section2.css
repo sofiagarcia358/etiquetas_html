@@ -5,6 +5,11 @@ table {
     border-collapse: collapse;
     table-layout: fixed;
 }
+.s2{
+    text-align: center;
+    background-color: rgb(145, 144, 144);
+
+}
 
 th, td {
     border: 1px solid #dddddd;

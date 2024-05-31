@@ -1,6 +1,7 @@
 let section2_sof =document.querySelector(".section-2");
 
 section2_sof.innerHTML =`
+<h2 class="s2">Etiquetas de Texto</h2>
 <table>
 <tr>
     <th>Etiqueta HTML</th>
