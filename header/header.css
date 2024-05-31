@@ -8,17 +8,18 @@
     align-items: center;
     gap: 1rem;
     padding: 1rem;
-    
+    background-color: rgb(50, 50, 126);
 }
 h1{
     grid-column: 1/2;
     grid-row: 1/2;
+    color: aliceblue;
 }
 .link{
     width: 6rem;
     height: 2rem;
-    background-color: rgb(2, 2, 90);
-    border-radius: 2rem;
+    background-color: rgb(2, 2, 48);
+    border-radius: 1rem;
 
 }
 .link a{
