@@ -1,0 +1,19 @@
+/* Aquí puedes agregar estilos según necesites */
+table {
+    max-width: 375px;
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+}
+
+th, td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+    max-width: 50%; /* El ancho máximo se divide entre el número de columnas */
+    overflow: hidden;
+}
+
+th {
+    background-color: #f2f2f2;
+}
